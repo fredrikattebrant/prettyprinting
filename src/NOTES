@@ -1,0 +1,3 @@
+2003-10-04 FXO
+- pp_me.c: fix for closing files in pp_me.c - always initialize yyin = stdin
+- Makefile: running flex with "-l" to make it work with pp_sh_lex.l
